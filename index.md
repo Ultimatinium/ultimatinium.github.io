@@ -11,15 +11,15 @@ Download ReVanced applications here on my GitHub page.
 
 #### Download Here :
 
-[![](https://img.shields.io/badge/-CLICK_HERE_TO_DOWNLOAD-grey)](https://github.com/Ultimatinium/yt/releases)
+[![](https://raw.githubusercontent.com/Ultimatinium/yt/main/buttons/button_download.png)](https://github.com/Ultimatinium/yt/releases)
 
 #### Star My Repo Here :
 
-[![](https://img.shields.io/badge/-CLICK_TO_VIEW_MY_REPO-grey)](https://github.com/Ultimatinium/yt)
+[![](https://raw.githubusercontent.com/Ultimatinium/yt/main/buttons/button_view.png)](https://github.com/Ultimatinium/yt)
 
 #### Full Description Here :
 
-[![](https://img.shields.io/badge/-VIEW_DESCRIPTION-grey)](https://github.com/Ultimatinium/yt/blob/main/yt.md)
+[![](https://raw.githubusercontent.com/Ultimatinium/yt/main/buttons/button_view.png)](https://github.com/Ultimatinium/yt/blob/main/yt.md)
 
 #### View Versions Here
-[![](https://img.shields.io/badge/-VIEW_VERSIONS-grey)](https://github.com/Ultimatinium/yt/blob/main/versions.txt)
+[![](https://raw.githubusercontent.com/Ultimatinium/yt/main/buttons/button_view.png)](https://github.com/Ultimatinium/yt/blob/main/versions.txt)
