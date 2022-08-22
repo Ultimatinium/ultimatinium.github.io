@@ -9,6 +9,10 @@ Download ReVanced applications here on my GitHub page.
 - Twitter
 - Micro G
 
+#### Total Downloads
+
+<a href="https://github.com/Ultimatinium/yt/release"><img src="https://img.shields.io/github/downloads/Ultimatinium/yt/total?label=Latest%20Release%20Total%20Downloads&color=white&style=for-the-badge"></a>
+
 #### Download Here :
 
 [![](https://raw.githubusercontent.com/Ultimatinium/yt/main/buttons/button_download.png)](https://github.com/Ultimatinium/yt/releases)
