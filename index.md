@@ -11,7 +11,7 @@ Download ReVanced applications here on my GitHub page.
 
 #### Total Downloads
 
-<a href="https://github.com/Ultimatinium/yt/release"><img src="https://img.shields.io/github/downloads/Ultimatinium/yt/total?label=Latest%20Release%20Total%20Downloads&color=white&style=for-the-badge"></a>
+<a href="https://github.com/Ultimatinium/yt/release"><img src="https://img.shields.io/github/downloads/Ultimatinium/yt/total?label=Latest%20Release%20Total%20Downloads&color=green&style=for-the-badge"></a>
 
 #### Download Here :
 
