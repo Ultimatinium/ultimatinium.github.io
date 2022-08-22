@@ -25,5 +25,6 @@ Download ReVanced applications here on my GitHub page.
 
 [![](https://raw.githubusercontent.com/Ultimatinium/yt/main/buttons/button_view.png)](https://github.com/Ultimatinium/yt/blob/main/yt.md)
 
-#### View Versions Here
+#### View Versions Here :
+
 [![](https://raw.githubusercontent.com/Ultimatinium/yt/main/buttons/button_view.png)](https://github.com/Ultimatinium/yt/blob/main/versions.txt)
